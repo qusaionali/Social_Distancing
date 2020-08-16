@@ -13,3 +13,4 @@ argparse
 
 Weights not added for sizes you can download from this link: https://pjreddie.com/media/files/yolov3.weights
 <img src="./example/example1.png">
+<img src="./example/example2.png">
