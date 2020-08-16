@@ -12,3 +12,4 @@ argparse
 
 
 Weights not added for sizes you can download from this link: https://pjreddie.com/media/files/yolov3.weights
+<img src=“https://github.com/KubraTurker/Social_Distancing/blob/master/example/example1.png 1”>
